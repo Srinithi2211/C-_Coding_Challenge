@@ -1,6 +1,0 @@
-C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\ClassLibrary1\obj\Debug\OrderManagementSystem.exceptions.csproj.AssemblyReference.cache
-C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\ClassLibrary1\obj\Debug\OrderManagementSystem.exceptions.csproj.CoreCompileInputs.cache
-C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
