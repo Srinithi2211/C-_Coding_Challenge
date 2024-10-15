@@ -1,0 +1,13 @@
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\obj\Debug\OrderManagementSystem.dao.csproj.AssemblyReference.cache
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\obj\Debug\OrderManagementSystem.dao.csproj.CoreCompileInputs.cache
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\bin\Debug\OrderManagementSystem.dao.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\bin\Debug\OrderManagementSystem.dao.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\bin\Debug\ClassLibrary1.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\bin\Debug\OrderManagementSystem.entity.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\bin\Debug\OrderManagementSystem.Util.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\bin\Debug\ClassLibrary1.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\bin\Debug\OrderManagementSystem.entity.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\bin\Debug\OrderManagementSystem.Util.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\obj\Debug\OrderMan.E029E89F.Up2Date
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\obj\Debug\OrderManagementSystem.dao.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\obj\Debug\OrderManagementSystem.dao.pdb
