@@ -1,0 +1,2 @@
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\obj\Debug\OrderManagementSystem.dao.csproj.AssemblyReference.cache
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.dao\OrderManagementSystem.dao\obj\Debug\OrderManagementSystem.dao.csproj.CoreCompileInputs.cache

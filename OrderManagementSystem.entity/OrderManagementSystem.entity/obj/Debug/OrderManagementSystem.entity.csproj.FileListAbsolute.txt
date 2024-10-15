@@ -1,0 +1,6 @@
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.entity\OrderManagementSystem.entity\bin\Debug\OrderManagementSystem.entity.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.entity\OrderManagementSystem.entity\bin\Debug\OrderManagementSystem.entity.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.entity\OrderManagementSystem.entity\obj\Debug\OrderManagementSystem.entity.csproj.AssemblyReference.cache
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.entity\OrderManagementSystem.entity\obj\Debug\OrderManagementSystem.entity.csproj.CoreCompileInputs.cache
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.entity\OrderManagementSystem.entity\obj\Debug\OrderManagementSystem.entity.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.entity\OrderManagementSystem.entity\obj\Debug\OrderManagementSystem.entity.pdb
