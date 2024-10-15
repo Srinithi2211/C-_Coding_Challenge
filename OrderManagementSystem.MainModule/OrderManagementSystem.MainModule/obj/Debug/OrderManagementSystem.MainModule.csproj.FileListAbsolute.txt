@@ -1,0 +1,16 @@
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\obj\Debug\OrderManagementSystem.MainModule.csproj.AssemblyReference.cache
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\obj\Debug\OrderManagementSystem.MainModule.csproj.CoreCompileInputs.cache
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\OrderManagementSystem.MainModule.exe.config
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\OrderManagementSystem.MainModule.exe
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\OrderManagementSystem.MainModule.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\ClassLibrary1.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\OrderManagementSystem.dao.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\OrderManagementSystem.entity.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\OrderManagementSystem.Util.dll
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\ClassLibrary1.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\OrderManagementSystem.dao.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\OrderManagementSystem.entity.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\bin\Debug\OrderManagementSystem.Util.pdb
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\obj\Debug\OrderMan.4ABE8057.Up2Date
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\obj\Debug\OrderManagementSystem.MainModule.exe
+C:\Users\SRINITHI\source\repos\OrderManagementSystem.MainModule\OrderManagementSystem.MainModule\obj\Debug\OrderManagementSystem.MainModule.pdb
